@@ -2,5 +2,4 @@ miso
 kimchi
 sauerkraut
 cheese
-beer
-cheese
+bread
